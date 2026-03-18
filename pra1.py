@@ -1,0 +1,6 @@
+str=(12,4,66,77,4,54,32,21)
+print(len(str))
+print(str[3])
+name=input("Enter your name:")
+print("Hay my name is ",name,"\t \tI am from Pratapgarh")
+print(str[-7:len(str)])
